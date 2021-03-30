@@ -28,6 +28,8 @@ open('data/vocab.kos.txt', )
 #####                  Use LDA to estimate word-topic matrix A            #####
 ###############################################################################
 
+#new code
+
 
 
 
